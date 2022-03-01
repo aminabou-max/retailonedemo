@@ -1,3 +1,6 @@
+![CP4D-RetailOne](./Pictures/RetailOne-DataFabricDemo.png)
+
+
 # Demo : RetailOne, IBM Data Fabric pattern & Governed Data Virtualization
 ## How a data fabric can help manipulate and filter data, and expose them to the appropriate target system?
 
@@ -12,9 +15,6 @@ Technically, it shows how to simplify ETL and data governance processes, with di
 
 - Link to the full presentation "[RetailOne.pdf](https://ibm.box.com/s/1qdg4gge8jpebpfwfj8740t5ngajio6t)" 
 - Sample code in this [Jupyter Notebook](./RetailOne-Notebook1-1.ipynb) 
-
-
-![CP4D-RetailOne](./Pictures/RetailOne-DataFabricDemo.png)
 
 Find videos & demos on this topic or others on my humble **[Youtube Channel](https://www.youtube.com/channel/UCUYRV_RT9zUKfbcmZsmQO2Q)** and on the **[IBM Tech Zone](https://techzone.ibm.com])** 
 
