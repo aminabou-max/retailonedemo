@@ -1,7 +1,7 @@
 ![CP4D-RetailOne](./Pictures/RetailOne-DataFabricDemo.png)
 
 
-# Demo : RetailOne, IBM Data Fabric pattern & Governed Data Virtualization
+# IBM Data Fabric pattern & Governed Data Virtualization
 ## How a data fabric can help manipulate and filter data, and expose them to the appropriate target system?
 
 This asset is a Data Fabric Solution in the Hybrid Multi Cloud Era: The ability to view, access, manipulate and analyze data without the need to know or understand its physical format or location, and without having to move or copy it. 
