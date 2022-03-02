@@ -1,5 +1,4 @@
-![CP4D-RetailOne](./Pictures/RetailOne-DataFabricDemo.png)
-
+[![Data Fabric RetailOne ](./Pictures/RetailOne-DataFabricDemo.png)](https://github.com/bmarolleau/retailOne/blob/main/README.md "Data Governance and Modernization: Data Fabric, Cloud Pak for Data")
 
 # IBM Data Fabric pattern & Governed Data Virtualization
 ## How a data fabric can help manipulate and filter data, and expose them to the appropriate target system?
