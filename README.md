@@ -15,8 +15,6 @@ Technically, it shows how to simplify ETL and data governance processes, with di
 > - **Oracle on AIX**  - CRM database storing employee information, sales office data.
 > - **Big Query on GCP**  - Products, ProductLines databases
 
-
-
 - Link to the full presentation "[RetailOne.pdf](https://ibm.box.com/v/retailone-intro)" 
 - Sample code in this [Jupyter Notebook](./RetailOne-Notebook1-1.ipynb) 
 
